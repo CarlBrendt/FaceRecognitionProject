@@ -6,9 +6,9 @@
     
 To run the application on localhost, you need to:
 - go to the server folder
-- then open the file util.py
-- in that file, change the specified paths or uncomment the specified lines of code
+- open the file util.py
+- change in this file the specified paths or uncomment the specified lines of code
 - go to the file server.py and run it
-- then go to the UI folder and run app.html
+- go to the UI folder and run app.html
 
 Enjoy the result!!!!
